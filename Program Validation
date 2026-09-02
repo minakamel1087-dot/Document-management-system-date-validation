@@ -1,9 +1,9 @@
 # Machine Licence
 schema = 4
 issued = 2026-09-02
-licence_id = 6e8239
+licence_id = a7be79
 
-machine = 68E3-B7B4 | 2026-09-01 | off | Mina_Innovo_Laptop
+machine = 68E3-B7B4 | 2026-09-01 | on | Mina_Innovo_Laptop
 
 message = 
-signature = CiW0TFDcvMvuwSjmNmycCgyxiObgGqjlKCnN5YzBOCGnWS0BUQgiJu+oMCfzPGoDIdrDkCP+gAP6R/0t0KxCCQ==
+signature = WI68j8x5VOTHFJj3UgYb9O8GjlHP38XzGADqbmub446BAOX5Ef+wstNtJ0M4YkWblrIpnRqETXnM3TQ7d8bcBA==
