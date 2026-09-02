@@ -1,1 +1,9 @@
+# i125 Machine Licence
+schema = 4
+issued = 2026-09-02
+licence_id = fb48fb
 
+machine = 68E3-B7B4 | 2027-09-02 | on
+
+message = Internal Error - contact Mina Kamel
+signature = la0f5cnnSIIepK1IHi/2QsQ5mvDwafHIYCD2NQrVYsMDEb/VOp9dExLm4hfb9tapWrVKk5PYDu1H7HM4jHryDQ==
