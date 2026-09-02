@@ -3,7 +3,7 @@ schema = 4
 issued = 2026-09-02
 licence_id = d8c787
 
-machine = 68E3-B7B4 | 2027-01-10 | off
+machine = 68E3-B7B4 | 2027-01-10 | on
 
 message = Internal Error - contact Mina Kamel
 signature = xTBUGrzfjHCch/2Ljon6tS2ZBEkmtGcY1jP9VD5tqT4zZwnLV3PIJVG++nk3MqJwe/KsUqMxGXAfjcqYRFa2CA==
