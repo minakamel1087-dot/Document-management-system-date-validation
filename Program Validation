@@ -1,9 +1,9 @@
 # i125 Machine Licence
 schema = 4
 issued = 2026-09-02
-licence_id = c5d58c
+licence_id = 551f02
 
-machine = 68E3-B7B4 | 2026-09-27 | on | MinaKamel_INNOVO_Laptop
+machine = 68E3-B7B4 | 2026-09-27 | off | MinaKamel_INNOVO_Laptop
 
 message = 
-signature = fw+kzQ3K49hEZrtnpDdqIq3mBi0v3AwhSnXi51JE7M/oMV61tiFTRa+qNs/hbJYofZAnfQp5XPfLAtHwQtSrBg==
+signature = Ma/xgT7j/QNOzKR5Hj+RzCLXh0aUPfifZDZ0n/VL/s+kHQu9bUgp3MgariCLgND/bXt7Owi929qPAvoWtWl+BQ==
