@@ -1,9 +1,9 @@
 # i125 Machine Licence
 schema = 4
 issued = 2026-09-02
-licence_id = d8c787
+licence_id = a15ea7
 
-machine = 68E3-B7B4 | 2027-01-10 | on
+machine = 68E3-B7B4 | 2026-10-10 | on | MinaKamel_INNOVO_Laptop
 
-message = Internal Error - contact Mina Kamel
-signature = xTBUGrzfjHCch/2Ljon6tS2ZBEkmtGcY1jP9VD5tqT4zZwnLV3PIJVG++nk3MqJwe/KsUqMxGXAfjcqYRFa2CA==
+message = 
+signature = J8vZL4ZfAR7uT5TrlH5ONmDCZHpPpmC1exSDfJqeRrtbVqu8CoCZ83Q52KqcePZU6DbKYQXR2FJ1wF51RqNiCw==
