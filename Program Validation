@@ -1,9 +1,9 @@
 # i125 Machine Licence
 schema = 4
 issued = 2026-09-02
-licence_id = cb10ed
+licence_id = db524a
 
-machine = 68E3-B7B4 | 2026-09-27 | off | MinaKamel_INNOVO_Laptop
+machine = 68E3-B7B4 | 2026-09-27 | on | MinaKamel_INNOVO_Laptop
 
 message = 
-signature = +JwhMfsLiuTvrp8l+BBWquI4u5MPQa0yali1k03okDA9GDZrNaCZuHuVj/vCJFaNiIUMiupol/qw7OFLSEHIDQ==
+signature = wobZ9rhuWb0k7CctVV6zcyARHV5CzvqxfDPtBe8wkpqkca/+Vn9q0FM90EJhlHs5wMliV75nd+6w+IObCLIrAg==
