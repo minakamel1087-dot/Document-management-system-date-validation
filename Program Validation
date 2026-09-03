@@ -1,9 +1,9 @@
 # Machine License
 schema = 4
 issued = 2026-09-03
-licence_id = b5458c
+licence_id = fee466
 
-machine = 68E3-B7B4 | 2026-09-27 | off
+machine = 68E3-B7B4 | 2026-09-01 | off
 
 message = 
-signature = E7PTEPrwUFZgRhvLkTjoTG7KPURo1I6FQ5A7CYogNLkGjgduO/fHhkoLYfKZxs4yXwoNXc5DIxciFfr16zBmAQ==
+signature = KOV5zcHMtleGznuKkkKodgfutV/ZpDIBEnjHQW3ExROvIvN0HCfpczUyHfNe1ikXf2uO9NwfO3B623ECczFNDw==
