@@ -1,9 +1,9 @@
 # Machine License
 schema = 4
 issued = 2026-09-03
-licence_id = 030332
+licence_id = 497e4b
 
-machine = 68E3-B7B4 | 2026-09-30 | off
+machine = 68E3-B7B4 | 2026-09-30 | on
 
 message = 
-signature = R/xiDEpPtlvtLJmS6GSCPhcDTOjFH5r/znlHVSjX25Jaud8L4vpc1ZI9/pL5Km0HszPXLPZ5G0W0qwPjXD8DCg==
+signature = uUGHMUMhdSOcPSOe4bgcUvdIF9GiQtbCjL/kdTGRIYbi8s4G8v/0nH9NB2BxOv6kMWxEDzRNlqNuNuJhyRg4AQ==
