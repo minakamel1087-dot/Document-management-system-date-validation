@@ -1,10 +1,10 @@
 # Machine License
 schema = 4
 issued = 2026-09-05
-licence_id = e38c53
+licence_id = 71b38e
 
 machine = 68E3-B7B4 | 2026-09-30 | on
 machine = 358A-19D0 | 2026-11-01 | on
 
 message = 
-signature = /iqXjrEXJiMUKXWZn6JqOHx54vwWBTECAiquRdQ31qYVyKti4yErqpU3s/0WmBg7dzXtyVF8kZFm/8QhGwIFDw==
+signature = Pz1K1gHHsjZ3TSA0cc07mBtUAhWkePwF4kfgtfDwIqV3yb33Wo576dZpE90eYr36ygTYYQIQq9quF7IlqXVHDQ==
