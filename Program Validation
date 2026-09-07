@@ -1,12 +1,12 @@
 # Machine License
 schema = 4
 issued = 2026-09-07
-licence_id = ba3098
+licence_id = cd54f2
 
 machine = 68E3-B7B4 | 2026-09-30 | on | | Internal Error
 machine = 358A-19D0 | 2026-11-01 | on
 machine = B37E-5962 | 2027-09-25 | on | | Internal Error
-machine = C4D0-3953 | 2027-12-31 | on
+machine = C4D0-3953 | 2027-12-31 | on | | Internal Error
 
 message = 
-signature = V8+Cop2wzko3Z/Dn/PiL9GlebX/Yjz/i1rBEt/Mrl2aLg6Dj4AWcxaQ6S6es01mXfGJTj29bsOKuNJDrMgukBA==
+signature = wBchl/5xbtqfWTHRG7osSjId3AMVGANwY+KSOcGAB7pRlrylGvIGF8C6Kf3dbhz6NFT1De1dGhx90meXKE9ODQ==
