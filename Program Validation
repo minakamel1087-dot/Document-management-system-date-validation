@@ -1,10 +1,10 @@
 # Machine License
 schema = 4
 issued = 2026-09-07
-licence_id = 16912f
+licence_id = 30db99
 
+machine = 68E3-B7B4 | 2026-09-30 | on | | Internal Error
 machine = 358A-19D0 | 2026-11-01 | on
-machine = 68E3-B7B4 | 2026-09-30 | off
 
 message = 
-signature = XWZ+b1eJialXPx3tMSvNJqFOCgaqPnQiZMnVtmanmyLmfkHwa+gUJmUGY0nMj3A/F8VUK60ZuBYLjhDJEAWMDA==
+signature = zyDJqqTYf90o9P7lRNmCUdKTl8hjGv1fq+XKqSYfvhLZqcVGFwRWuBFjVbivMa8zbamA4QrJVUrhNMOLao+6Cw==
