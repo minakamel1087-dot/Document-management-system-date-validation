@@ -1,14 +1,15 @@
 # Machine License
 schema = 4
 issued = 2026-09-12
-licence_id = 96a6e9
+licence_id = 0e1a32
 
 machine = 68E3-B7B4 | 2026-09-30 | on | | Internal Error
 machine = 358A-19D0 | 2026-11-01 | on | | Internal Error
 machine = 3670-7677 | 2027-08-31 | on | | Internal Error
+machine = 81D0-CA72 | 2027-09-12 | on
 machine = B37E-5962 | 2027-09-25 | on | | Internal Error
 machine = C4D0-3953 | 2027-12-31 | on | | Internal Error
 machine = E31A-9B55 | 2027-12-31 | on | | Internal Error
 
 message = 
-signature = 4taveLRSJ7z5eu3qyuspruFEBzuNsKvR7Nmyj8QYOTs+2F6UP96glfdc8RJn/+W9KodDEaKiYA4Wy22tQUj7Aw==
+signature = pnG7RXQ2sRg+F/USkDaVnnSyRke8VsfJPKdyb8k5noFTkM+AyaFYyKbAywMZyiU5E4e9F97oo1K0MKT9AL11BA==
