@@ -1,16 +1,16 @@
 # Machine License
 schema = 4
-issued = 2026-09-17
-licence_id = dde27c
+issued = 2026-10-01
+licence_id = 6ef9b4
 
-machine = 68E3-B7B4 | 2026-09-30 | on | | Internal Error
-machine = 358A-19D0 | 2026-11-01 | on | | Internal Error
+machine = 68E3-B7B4 | 2027-01-14 | on | | Internal Error
 machine = 3670-7677 | 2027-08-31 | on | | Internal Error
 machine = 81D0-CA72 | 2027-09-12 | on
 machine = 982A-22C2 | 2027-09-17 | on
 machine = B37E-5962 | 2027-09-25 | on | | Internal Error
 machine = C4D0-3953 | 2027-12-31 | on | | Internal Error
 machine = E31A-9B55 | 2027-12-31 | on | | Internal Error
+machine = 358A-19D0 | 2026-11-01 | off | | Internal Error
 
 message = 
-signature = gCFTnqsdprnTlEHwK57R5T9K+3PpQsESalXDfn4cp6A48xJoMx8v8psQb17jLmrNXoYZ8stvEfKam304xUskBg==
+signature = W6jfXZcg/DU8xb1ZLWtxT3uHM9fO1tYi/J9Kw+okvpoIYDkuUInFHmZsR0D4P9IPuxnhT5x9OxXVZjHPJjNTCw==
