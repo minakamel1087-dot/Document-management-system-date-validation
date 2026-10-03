@@ -1,8 +1,9 @@
 # Machine License
 schema = 4
 issued = 2026-10-03
-licence_id = 8790f2
+licence_id = ace59c
 
+machine = 68E3-B7B4 | 2027-01-14 | on | | Internal Error
 machine = 3670-7677 | 2027-08-31 | on | | Internal Error
 machine = 81D0-CA72 | 2027-09-12 | on
 machine = 982A-22C2 | 2027-09-17 | on
@@ -10,7 +11,6 @@ machine = B37E-5962 | 2027-09-25 | on | | Internal Error
 machine = C4D0-3953 | 2027-12-31 | on | | Internal Error
 machine = E31A-9B55 | 2027-12-31 | on | | Internal Error
 machine = 358A-19D0 | 2026-11-01 | off | | Internal Error
-machine = 68E3-B7B4 | 2027-01-14 | off | | Internal Error
 
 message = 
-signature = fVhyL4JVnnhCeH+w1iBZjjLD4oBQHhSCah2I06Fl304j9cKTltfNUYE3M0iTPoZ7JhzXFB6rXyNCHORlkX+rCQ==
+signature = qTSU5IOEyX3+LmhypGFhm0E/JDnXZLThpYdN2T7jySZHMAJhAJkunJnNtzD+/7NlMAJ6Uzk0n7NDcyZG3A7EDg==
