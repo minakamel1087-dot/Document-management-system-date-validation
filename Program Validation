@@ -1,7 +1,7 @@
 # Machine License
 schema = 4
 issued = 2026-10-03
-licence_id = ace59c
+licence_id = 561937
 
 machine = 68E3-B7B4 | 2027-01-14 | on | | Internal Error
 machine = 3670-7677 | 2027-08-31 | on | | Internal Error
@@ -13,4 +13,4 @@ machine = E31A-9B55 | 2027-12-31 | on | | Internal Error
 machine = 358A-19D0 | 2026-11-01 | off | | Internal Error
 
 message = 
-signature = qTSU5IOEyX3+LmhypGFhm0E/JDnXZLThpYdN2T7jySZHMAJhAJkunJnNtzD+/7NlMAJ6Uzk0n7NDcyZG3A7EDg==
+signature = gfhFOejf0mT24q566yew1kKpbjvyZS1YZDqQ/dHbwuYHWRdkLkSUJqh1P/Ri9vtaHU1rVoMGQo7op0GeldVSAg==
