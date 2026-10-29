@@ -1,7 +1,7 @@
 # Machine License
 schema = 4
-issued = 2026-10-18
-licence_id = 43bf77
+issued = 2026-10-29
+licence_id = 44d7ec
 
 machine = 68E3-B7B4 | 2027-01-14 | on | | Internal Error
 machine = 3670-7677 | 2027-08-31 | on | | Internal Error
@@ -14,8 +14,9 @@ machine = 8D27-F6EF | 2027-10-06 | on | | Internal Error
 machine = E6F9-F0FA | 2027-10-17 | on
 machine = C4D0-3953 | 2027-12-31 | on | | Internal Error
 machine = E31A-9B55 | 2027-12-31 | on | | Internal Error
+machine = 06BE-9827 | 2028-03-31 | on | | internal Error
 machine = 0ABD-4945 | 2033-06-30 | on
 machine = 358A-19D0 | 2026-11-01 | off | | Internal Error
 
 message = 
-signature = OB3ZjZ2kL+PmlmN53NSNmbxIuHH6VS8vdv0B075Fzm8xjAYlbg5IGpXEJOm2yaEsv3zAwF+MMDnacbJ9PTQWBQ==
+signature = dVKrIvztzIHdBZC7xrCRSNIH4CuprvsK1lgehHtUhmmal4d5bVCjIvRT0Jd8Av2uSRdmGdtwf6iJFJY/AhfPCA==
